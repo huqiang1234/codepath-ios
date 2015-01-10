@@ -11,3 +11,5 @@ Which required and optional stories have you completed?
 GIF walkthrough of all required and optional stories:
 
 ![Video Walkthrough](TipCalculator.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
