@@ -8,6 +8,6 @@ Which required and optional stories have you completed?
 - Required: Main view and Settings view show tip percentages based on user's change
 - Required: Re-calculate tip/total amounts based on the new tip percentage after user's change  
 
-GIF walkthrough of all required and optional stories
+GIF walkthrough of all required and optional stories:
 
 ![Video Walkthrough](TipCalculator.gif)
