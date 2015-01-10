@@ -9,4 +9,5 @@ Which required and optional stories have you completed?
 - Required: Re-calculate tip/total amounts based on the new tip percentage after user's change  
 
 GIF walkthrough of all required and optional stories
+
 ![Video Walkthrough](TipCalculator.gif)
