@@ -18,6 +18,7 @@
 		B223246A1A5E07DE004011B8 /* TipViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B22324681A5E07DE004011B8 /* TipViewController.xib */; };
 		B249020A1A619EDF0054AF3D /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24902081A619EDF0054AF3D /* SettingsViewController.m */; };
 		B249020B1A619EDF0054AF3D /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24902091A619EDF0054AF3D /* SettingsViewController.xib */; };
+		B2F13E291A61B465003F8A36 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B2F13E281A61B465003F8A36 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		B24902071A619EDF0054AF3D /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
 		B24902081A619EDF0054AF3D /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		B24902091A619EDF0054AF3D /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
+		B2F13E281A61B465003F8A36 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 		B22324341A5E05D2004011B8 = {
 			isa = PBXGroup;
 			children = (
+				B2F13E281A61B465003F8A36 /* README.md */,
 				B223243F1A5E05D2004011B8 /* tipcalculator */,
 				B22324591A5E05D2004011B8 /* tipcalculatorTests */,
 				B223243E1A5E05D2004011B8 /* Products */,
@@ -237,6 +240,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2F13E291A61B465003F8A36 /* README.md in Sources */,
 				B22324491A5E05D2004011B8 /* ViewController.m in Sources */,
 				B22324461A5E05D2004011B8 /* AppDelegate.m in Sources */,
 				B249020A1A619EDF0054AF3D /* SettingsViewController.m in Sources */,
